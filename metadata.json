@@ -1,0 +1,6 @@
+{
+  "name": "Soil Detection and Next Crop Prediction",
+  "description": "Upload a picture of soil to detect its type, properties, and predict the best crops for the next season.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
